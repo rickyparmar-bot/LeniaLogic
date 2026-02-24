@@ -45,4 +45,3 @@ LeniaLogic/
 - [ ] **PyTorch Port:** Moving convolutions to the GPU for massive scale.
 
 ---
-*Part of the MIT Maker Portfolio 2026. Proving biology is just another form of compute.* 🦠💻
